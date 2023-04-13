@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/demo-expense-app/static/css/main.4b2038c7.css",
+    "main.js": "/demo-expense-app/static/js/main.92971e78.js",
+    "static/js/787.658e14e2.chunk.js": "/demo-expense-app/static/js/787.658e14e2.chunk.js",
+    "static/media/Vector.png": "/demo-expense-app/static/media/Vector.1eb21c3a07ea528c3115.png",
+    "static/media/Decor.svg": "/demo-expense-app/static/media/Decor.36e5d30d22006497661ee6711eab9f80.svg",
+    "static/media/Logo.svg": "/demo-expense-app/static/media/Logo.815b5ac6bbd72f74651c3b955b6c21da.svg",
+    "static/media/eye-off.svg": "/demo-expense-app/static/media/eye-off.c003593fd1b4bb6137996655e421c874.svg",
+    "static/media/eye-on.svg": "/demo-expense-app/static/media/eye-on.e1e3a329f203003c7df556037b85aa9d.svg",
+    "index.html": "/demo-expense-app/index.html",
+    "main.4b2038c7.css.map": "/demo-expense-app/static/css/main.4b2038c7.css.map",
+    "main.92971e78.js.map": "/demo-expense-app/static/js/main.92971e78.js.map",
+    "787.658e14e2.chunk.js.map": "/demo-expense-app/static/js/787.658e14e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b2038c7.css",
+    "static/js/main.92971e78.js"
+  ]
+}
